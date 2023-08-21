@@ -1,0 +1,5 @@
+{{#user}}
+Name: LOKANATHAM LATESH
+Skills: HTML, CSS, JS, Next.js
+Email: lokanathamlatesh@email.com
+{{/user}}
